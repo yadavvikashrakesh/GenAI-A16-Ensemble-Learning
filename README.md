@@ -28,15 +28,7 @@ Breast Cancer Wisconsin (Diagnostic) dataset.
 
 ## Tasks Completed
 
-### Task 5: Bagging vs Boosting
-- Trained a Bagging Classifier.
-- Trained an AdaBoost Classifier.
-- Compared their test accuracy.
 
-### Task 6: Random Forest
-- Trained a Random Forest Classifier.
-- Compared it with a Decision Tree and Bagging.
-- Examined feature importance.
 
 ## Evaluation
 Model performance is evaluated using test accuracy.
